@@ -5,7 +5,7 @@ public class Algorithm {
     /**
      * Writing the array read from input array arr to file
      * @param fileName The file name of file to write value
-     * @param arr      The input float array   
+     * @param arr      The input float array
      * @throws IOException
      */
     public void writeFile(String fileName, float arr[]) throws IOException {
